@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Frontend Developer From Algeria</h3>
 
 <div style="display:'flex'; justify-content:'space-between'; align-items:'center'">
-<p>
+<p width="45%">
 - 🌱 I’m currently learning **Vue.js, React.js**
 
 - 💬 Ask me about **JS , Vuejs , Vuex , Pinia , Vuetify**
