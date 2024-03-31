@@ -5,13 +5,11 @@
 
 <p align="right"><img src="./Developer_Profile.gif" alt="zahoussam"/></p>
 
-<p align="left>
 - 🌱 I’m currently learning **Vue.js, React.js**
 
 - 💬 Ask me about **JS , Vuejs , Vuex , Pinia , Vuetify**
 
 - 📫 How to reach me **mrlhou62@gmail.com**
-</p>
 
 
 
