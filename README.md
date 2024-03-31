@@ -1,4 +1,4 @@
-<img src="./Developer_Profile.gif" width="80%" align="center" alt="zahoussam"/>
+<img src="./Developer_Profile.gif" width="80%" style="margin:'auto'" alt="zahoussam"/>
 
 <h1 align="center">Hi 👋, I'm Houssam</h1>
 <h3 align="center">A Passionate Frontend Developer From Algeria</h3>
