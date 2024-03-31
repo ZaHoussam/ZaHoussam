@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mrlhou62@gmail.com**
 </p>
-<img src="./Developer_Profile.gif" alt="zahoussam"/>
+<img src="./Developer_Profile.gif" width="50%" alt="zahoussam"/>
 </div>
 
 
