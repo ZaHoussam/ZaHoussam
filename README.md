@@ -3,13 +3,18 @@
 <h1 align="center">Hi 👋, I'm Houssam</h1>
 <h3 align="center">A Passionate Frontend Developer From Algeria</h3>
 
-<p align="right"> <img src="./Developer_Profile.gif" alt="zahoussam" width="50%" /> </p>
-
+<div style="display:flex; justify-content:space-between; align-items:center>
+<p>
 - 🌱 I’m currently learning **Vue.js, React.js**
 
 - 💬 Ask me about **JS , Vuejs , Vuex , Pinia , Vuetify**
 
 - 📫 How to reach me **mrlhou62@gmail.com**
+</p>
+<img src="./Developer_Profile.gif" alt="zahoussam"/>
+</div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
