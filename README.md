@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue.js, React.js**
 
-- 💬 Ask me about **JS , Vuejs , Vuex , Pinia , Vuetify**
+- 💬 Ask me about **HTML , CSS , SASS , Bootstrap , JS , Vuejs , Vuex , Pinia , Vuetify**
 
 - 📫 How to reach me **mrlhou62@gmail.com**
 
