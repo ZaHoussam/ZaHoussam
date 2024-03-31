@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Houssam</h1>
 <h3 align="center">A Passionate Frontend Developer From Algeria</h3>
 
-<p align="left"> <img src="./Developer_Profile.gif" alt="zahoussam" /> </p>
+<p align="center"> <img src="./Developer_Profile.gif" alt="zahoussam" /> </p>
 
 - 🌱 I’m currently learning **Vue.js, React.js**
 
